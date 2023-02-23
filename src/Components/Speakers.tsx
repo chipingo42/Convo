@@ -36,7 +36,7 @@ const Speakers = () => {
         <div className=' flex items-center gap-4'>
           <div className="relative bg-[#66A3FF] h-[545px]  w-[420px]">
             <img src={image1} className="h-full" alt="" />
-            <div className='absolute bottom-7 w-full px-5'>
+            <div className='absolute bottom-7 w-full px-3'>
               <h1 className=' text-white font-Sora font-[900] text-[32px] '>Amaka Igwe</h1>
               <div className='border-y flex py-1  justify-between items-center'>
                 <span className="text-[16px] font-[500] text-white">Student ambassador</span>
@@ -46,7 +46,7 @@ const Speakers = () => {
           </div>
           <div className="relative bg-[#66A3FF] h-[545px]  w-[420px]">
             <img src={image2} className="h-full" alt="" />
-            <div className='absolute bottom-7 w-full px-5'>
+            <div className='absolute bottom-7 w-full px-3'>
               <h1 className='text-white font-Sora font-[900] text-[32px] '>Debra Rowland</h1>
               <div className='border-y flex py-1  justify-between items-center'>
                 <span className="text-[16px] font-[500] text-white">Family therapist</span>
