@@ -17,6 +17,7 @@ const Footer = () => {
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>About Us</li>
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Careers</li>
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Partner with Us</li>
+              <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Contact Us</li>
             </ul>
           </div>
           <div className='flex flex-col gap-5'>
