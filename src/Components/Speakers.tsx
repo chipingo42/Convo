@@ -18,7 +18,7 @@ const Speakers = () => {
       </div>
       <div className='flex gap-12 mt-[40px]  '>
         <div className='flex flex-col'>
-          <h1 className=' text-[16px] font-[400] font-Sora'>Therapist share knowledge on building <br /> Friendships and and relationships with <br /> family.</h1>
+          <h1 className=' text-[15px] font-[400] font-Sora'>Therapist share knowledge on building <br /> Friendships and and relationships with <br /> family.</h1>
           <div className='flex gap-5 mt-[428px]'>
             <div className='flex items-center justify-center w-[60px] h-[60px] border border-solid border-[#717172] rounded-full'>
               <svg width="9" height="18" viewBox="0 0 9 18" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -59,5 +59,5 @@ const Speakers = () => {
   )
 }
 
-export default Speakers
+export default Speakers;
 

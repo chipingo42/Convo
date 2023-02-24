@@ -23,7 +23,7 @@ const Navbar = () => {
           </ul>
           <div className='flex items-center space-x-8 mt-[64px] '>
             <button className='text-[20px] text-[#717172] font-Sora '>Log in</button>
-            <button className='px-5 py-3 rounded-sm text-white bg-[#1070FF]'>Sign up</button>
+            <button className='px-5 py-3 rounded-sm text-white font-Sora text-[20px] bg-[#1070FF]'>Sign up</button>
           </div>
         </div>
       </div>
