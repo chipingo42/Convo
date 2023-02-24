@@ -13,7 +13,7 @@ const Footer = () => {
         <div className='flex justify-between  mt-[46px] sm:block sm:space-y-4 sm:mt-[26px] sm:pb-12'>
           <div className='flex flex-col gap-5'>
             <h1 className='text-[24px] font-[500] font-Sora  sm:text-[16px] '>Company</h1>
-            <ul className='flex flex-col gap-7'>
+            <ul className='flex flex-col space-y-7 '>
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>About Us</li>
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Careers</li>
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Partner with Us</li>
@@ -21,7 +21,7 @@ const Footer = () => {
           </div>
           <div className='flex flex-col gap-5'>
             <h1 className='text-[24px] font-[500] font-Sora sm:text-[16px] '>Learn</h1>
-            <ul className='flex flex-col gap-7'>
+            <ul className='flex flex-col space-y-7 '>
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>How it works</li>
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Webinars</li>
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Blogs</li>
@@ -29,7 +29,7 @@ const Footer = () => {
           </div>
           <div className='flex flex-col gap-5'>
             <h1 className='text-[24px] font-[500] font-Sora sm:text-[16px] '>Legal</h1>
-            <ul className='flex flex-col gap-7'>
+            <ul className='flex flex-col space-y-7 '>
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Privacy Policy</li>
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Terms & Conditions</li>
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Security</li>
@@ -38,7 +38,7 @@ const Footer = () => {
           </div>
           <div className='flex flex-col gap-5'>
             <h1 className='text-[24px] font-[500] font-Sora sm:text-[16px] '>Help</h1>
-            <ul className='flex flex-col gap-7'>
+            <ul className='flex flex-col space-y-7 '>
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>FAQs</li>
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Customer support</li>
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Help Center </li>
@@ -46,7 +46,7 @@ const Footer = () => {
           </div>
           <div className='flex flex-col gap-5'>
             <h1 className='text-[24px] font-[500] font-Sora sm:text-[16px] '>Socials</h1>
-            <ul className='flex flex-col gap-7'>
+            <ul className='flex flex-col space-y-7 '>
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Twitter</li>
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Facebook </li>
               <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Linkedin</li>
