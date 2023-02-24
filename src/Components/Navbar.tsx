@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav className='w-screen h-36 border-b border-solid border-[#C8C8C8] fixed top-0 bg-white z-20 md:h-20 sm:h-14'>
       <div className='max-w-[1200px] mx-auto md:mx-5 sm:mx-3'>
         <div className='flex justify-between items-center'>
-          <div className='flex mt-[60px] gap-4 items-center md:mt-[25px] md:gap-2 sm:mt-[20px]'>
+          <div className='flex mt-[60px] gap-4 items-center md:mt-[25px] md:gap-2 sm:mt-[20px] sm:gap-3'>
             <span>
               <svg className='w-[34px] h-[35px] sm:w-[16px] sm:h-[16px]'  viewBox="0 0 34 35" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M30.3333 0.833252H3.66665C2.78259 0.833252 1.93474 1.18444 1.30962 1.80956C0.684502 2.43468 0.333313 3.28253 0.333313 4.16659V34.1666L6.99998 27.4999H30.3333C31.2174 27.4999 32.0652 27.1487 32.6903 26.5236C33.3155 25.8985 33.6666 25.0506 33.6666 24.1666V4.16659C33.6666 3.28253 33.3155 2.43468 32.6903 1.80956C32.0652 1.18444 31.2174 0.833252 30.3333 0.833252Z" fill="#1070FF"/>
