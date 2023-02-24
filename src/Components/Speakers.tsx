@@ -43,7 +43,7 @@ const Speakers = () => {
               </div>
             </div>
           </div>
-          <div className="relative bg-[#66A3FF] h-[545px]  w-[420px]">
+          <div className="relative bg-[#BCD7FF] h-[545px]  w-[420px]">
             <img src={image2} className="h-full" alt="" />
             <div className='absolute bottom-7 w-full px-3'>
               <h1 className='text-white font-Sora font-[900] text-[32px] '>Debra Rowland</h1>
