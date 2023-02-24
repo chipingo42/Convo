@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className='h-[475px] bg-[#1070FF] w-screen text-white'>
+    <div className='h-[475px] bg-[#1070FF] w-screen text-white overflow-hidden md:px-5 sm:h-full'>
       <div className='max-w-[1200px] mx-auto'>
         <div className='flex items-center gap-4 pt-[46px]'>
           <svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -10,9 +10,9 @@ const Footer = () => {
           </svg>
           <h1 className='font-Sora font-[600] text-[20px] '>Convo</h1>
         </div>
-        <div className='flex justify-between mt-[46px]'>
+        <div className='flex  gap-4  justify-between mt-[46px] sm:block sm:space-y-7 sm:pb-20'>
           <div>
-            <h1 className='text-[24px] font-[500] font-Sora '>Company</h1>
+            <h1 className='text-[24px] font-[500] font-Sora  sm:text-[30px] '>Company</h1>
             <ul className='flex flex-col gap-5 pt-[29px]'>
               <li className='font-[500] text-[20px] font-Sora'>About Us</li>
               <li className='font-[500] text-[20px] font-Sora'>Careers</li>
@@ -20,7 +20,7 @@ const Footer = () => {
             </ul>
           </div>
           <div>
-            <h1 className='text-[24px] font-[500] font-Sora '>Learn</h1>
+            <h1 className='text-[24px] font-[500] font-Sora sm:text-[30px] '>Learn</h1>
             <ul className='flex flex-col gap-5 pt-[29px]'>
               <li className='font-[500] text-[20px] font-Sora'>How it works</li>
               <li className='font-[500] text-[20px] font-Sora'>Webinars</li>
@@ -28,7 +28,7 @@ const Footer = () => {
             </ul>
           </div>
           <div>
-            <h1 className='text-[24px] font-[500] font-Sora '>Legal</h1>
+            <h1 className='text-[24px] font-[500] font-Sora sm:text-[30px] '>Legal</h1>
             <ul className='flex flex-col gap-5 pt-[29px]'>
               <li className='font-[500] text-[20px] font-Sora'>Privacy Policy</li>
               <li className='font-[500] text-[20px] font-Sora'>Terms & Conditions</li>
@@ -37,7 +37,7 @@ const Footer = () => {
             </ul>
           </div>
           <div>
-            <h1 className='text-[24px] font-[500] font-Sora '>Help</h1>
+            <h1 className='text-[24px] font-[500] font-Sora sm:text-[30px] '>Help</h1>
             <ul className='flex flex-col gap-5 pt-[29px]'>
               <li className='font-[500] text-[20px] font-Sora'>FAQs</li>
               <li className='font-[500] text-[20px] font-Sora'>Customer support</li>
@@ -45,7 +45,7 @@ const Footer = () => {
             </ul>
           </div>
           <div>
-            <h1 className='text-[24px] font-[500] font-Sora '>Socials</h1>
+            <h1 className='text-[24px] font-[500] font-Sora sm:text-[30px] '>Socials</h1>
             <ul className='flex flex-col gap-5 pt-[29px]'>
               <li className='font-[500] text-[20px] font-Sora'>Twitter</li>
               <li className='font-[500] text-[20px] font-Sora'>Facebook </li>
