@@ -4,6 +4,7 @@ import Hero from './Components/Hero';
 import Navbar from './Components/Navbar';
 import Speakers from './Components/Speakers';
 import Subscribe from './Components/Subscribe';
+import Footer from './Components/Footer';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Speakers />
       <Allevents />
       <Subscribe />
+      <Footer />
     </div>
   );
 }
