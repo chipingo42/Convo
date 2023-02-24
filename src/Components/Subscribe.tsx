@@ -10,7 +10,7 @@ const Subscribe = () => {
         <p className='font-[400] text-[16px] font-Sora sm:text-[13px]'>Be notified about our events before everyone else</p>
         <form action="" className='flex gap-1 items-center mt-[36px] md:gap-0'>
           <div>
-           <input type="text" placeholder='Textfield text' className='w-[320px] pl-5 py1 text-[16px] font-[500] rounded-md md:py-2  sm:w-full' />
+           <input type="text" placeholder='Textfield text' className='w-[320px] pl-5 py-1 text-[16px] font-[500] rounded-md md:py-2  sm:w-full' />
           </div>
           <div className='px-4 py-1 bg-[#1070FF] flex gap-2 items-center justify-center rounded-md'>
             <span className='text-[20px] font-[700] text-white '>Subscribe</span>

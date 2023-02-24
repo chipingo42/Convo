@@ -10,46 +10,46 @@ const Footer = () => {
           </svg>
           <h1 className='font-Sora font-[600] text-[20px] '>Convo</h1>
         </div>
-        <div className='flex  gap-4  justify-between mt-[46px] sm:block sm:space-y-7 sm:pb-20'>
+        <div className='flex  gap-4 justify-between mt-[46px] sm:block sm:space-y-7 sm:mt-[26px] sm:pb-12'>
           <div>
-            <h1 className='text-[24px] font-[500] font-Sora  sm:text-[30px] '>Company</h1>
-            <ul className='flex flex-col gap-5 pt-[29px]'>
-              <li className='font-[500] text-[20px] font-Sora'>About Us</li>
-              <li className='font-[500] text-[20px] font-Sora'>Careers</li>
-              <li className='font-[500] text-[20px] font-Sora'>Partner with Us</li>
+            <h1 className='text-[24px] font-[500] font-Sora  sm:text-[18px] '>Company</h1>
+            <ul className='flex flex-col gap-5 pt-[29px] sm:pt-[10px] sm:gap-3'>
+              <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>About Us</li>
+              <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Careers</li>
+              <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Partner with Us</li>
             </ul>
           </div>
           <div>
-            <h1 className='text-[24px] font-[500] font-Sora sm:text-[30px] '>Learn</h1>
-            <ul className='flex flex-col gap-5 pt-[29px]'>
-              <li className='font-[500] text-[20px] font-Sora'>How it works</li>
-              <li className='font-[500] text-[20px] font-Sora'>Webinars</li>
-              <li className='font-[500] text-[20px] font-Sora'>Blogs</li>
+            <h1 className='text-[24px] font-[500] font-Sora sm:text-[18px] '>Learn</h1>
+            <ul className='flex flex-col gap-5 pt-[29px] sm:pt-[10px] sm:gap-3'>
+              <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>How it works</li>
+              <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Webinars</li>
+              <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Blogs</li>
             </ul>
           </div>
           <div>
-            <h1 className='text-[24px] font-[500] font-Sora sm:text-[30px] '>Legal</h1>
-            <ul className='flex flex-col gap-5 pt-[29px]'>
-              <li className='font-[500] text-[20px] font-Sora'>Privacy Policy</li>
-              <li className='font-[500] text-[20px] font-Sora'>Terms & Conditions</li>
-              <li className='font-[500] text-[20px] font-Sora'>Security</li>
-              <li className='font-[500] text-[20px] font-Sora'>Cookies Setting</li>
+            <h1 className='text-[24px] font-[500] font-Sora sm:text-[18px] '>Legal</h1>
+            <ul className='flex flex-col gap-5 pt-[29px] sm:pt-[10px] sm:gap-3'>
+              <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Privacy Policy</li>
+              <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Terms & Conditions</li>
+              <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Security</li>
+              <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Cookies Setting</li>
             </ul>
           </div>
           <div>
-            <h1 className='text-[24px] font-[500] font-Sora sm:text-[30px] '>Help</h1>
-            <ul className='flex flex-col gap-5 pt-[29px]'>
-              <li className='font-[500] text-[20px] font-Sora'>FAQs</li>
-              <li className='font-[500] text-[20px] font-Sora'>Customer support</li>
-              <li className='font-[500] text-[20px] font-Sora'>Help Center </li>
+            <h1 className='text-[24px] font-[500] font-Sora sm:text-[18px] '>Help</h1>
+            <ul className='flex flex-col gap-5 pt-[29px] sm:pt-[10px] sm:gap-3'>
+              <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>FAQs</li>
+              <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Customer support</li>
+              <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Help Center </li>
             </ul>
           </div>
           <div>
-            <h1 className='text-[24px] font-[500] font-Sora sm:text-[30px] '>Socials</h1>
-            <ul className='flex flex-col gap-5 pt-[29px]'>
-              <li className='font-[500] text-[20px] font-Sora'>Twitter</li>
-              <li className='font-[500] text-[20px] font-Sora'>Facebook </li>
-              <li className='font-[500] text-[20px] font-Sora'>Linkedin</li>
+            <h1 className='text-[24px] font-[500] font-Sora sm:text-[18px] '>Socials</h1>
+            <ul className='flex flex-col gap-5 pt-[29px] sm:pt-[10px] sm:gap-3'>
+              <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Twitter</li>
+              <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Facebook </li>
+              <li className='font-[500] text-[20px] font-Sora sm:text-[16px]'>Linkedin</li>
             </ul>
           </div>
         </div>
