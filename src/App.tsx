@@ -3,6 +3,7 @@ import Allevents from './Components/Allevents';
 import Hero from './Components/Hero';
 import Navbar from './Components/Navbar';
 import Speakers from './Components/Speakers';
+import Subscribe from './Components/Subscribe';
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <Hero />
       <Speakers />
       <Allevents />
+      <Subscribe />
     </div>
   );
 }
